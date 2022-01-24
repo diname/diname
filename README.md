@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Lucas Medina ✌🖥
-
+##
 Apaixonado por tecnologia, autodidata e curioso.
 Sou formado em Análise e Desenvolvimento de Sistemas e continuo meus estudos adicionais através de cursos, documentações e leituras online.
 
