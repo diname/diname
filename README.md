@@ -44,8 +44,8 @@ Sou formado em Análise e Desenvolvimento de Sistemas e continuo meus estudos ad
   ### My GitHub Stats
 
   <a href="http://www.github.com/diname">
-    <img src="https://github-readme-stats.vercel.app/api?username=diname&show_icons=true&hide=&count_private=true&title_color=4169e1&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="diname's GitHub stats" width="350"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diname&stroke=ffffff&background=1c1917&ring=4169e1&fire=4169e1&currStreakNum=ffffff&currStreakLabel=4169e1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="350  />
+    <img src="https://github-readme-stats.vercel.app/api?username=diname&show_icons=true&hide=&count_private=true&title_color=4169e1&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="diname's GitHub stats" width="440"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diname&stroke=ffffff&background=1c1917&ring=4169e1&fire=4169e1&currStreakNum=ffffff&currStreakLabel=4169e1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="490  />
 
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diname&bg_color=0d1117&color=4169e1&line=4169e1&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
