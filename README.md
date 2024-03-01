@@ -68,10 +68,7 @@ Full Stack Developer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diname&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="400" />
   
 </div>
-
-  
- 
-  ![Snake animation](https://github.com/diname/diname/blob/output/github-contribution-grid-snake.svg)
+          ![snake gif](https://github.com/diname/diname/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <div align="center">
